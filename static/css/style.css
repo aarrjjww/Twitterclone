@@ -100,6 +100,7 @@ button {
   margin-top: 5px;
   margin-inline-end: -28px;
   margin-right: 17px;
+  border: none;
 }
 .my-icon input {
   background-color: white;
