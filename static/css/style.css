@@ -188,3 +188,12 @@ a.cancel-button {
 .row {
   display: flex;
 }
+.post-border {
+  width: 60%;
+  height: 33vh;
+  border-radius: 20px;
+  margin-top: 10px;
+  align-content: center;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
